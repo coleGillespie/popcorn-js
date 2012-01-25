@@ -5,7 +5,7 @@
   /**
    * Code Popcorn Plug-in
    *
-   * Adds the ability to run arbitrary code (JavaScript functions) according to video timing.
+   * Adds the ability to run arbitrary code (JavaScript functions) according to video or audio timing.
    *
    * @param {Object} options
    *
